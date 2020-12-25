@@ -1,4 +1,4 @@
-![Docker Automated build](https://img.shields.io/docker/automated/ichsanwahyudi/pg-backup-s3) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/ichsanwahyudi/pg-backup-s3)
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/ichsanwahyudi/pg-backup-s3) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/ichsanwahyudi/pg-backup-s3) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/ichsanwahyudi/pg-backup-s3) ![Docker Image Version (latest semver)](https://img.shields.io/docker/v/ichsanwahyudi/pg-backup-s3)
 # pg-backup-s3
 
 Hi Guys!
